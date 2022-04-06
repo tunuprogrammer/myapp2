@@ -12,6 +12,7 @@
 		<input type="text" name="
 		fname"><br>
 		<h1>THIS IS FORM2</h1>
+		<h2>edfghujytrdfs</h2>
 	</form>
 
 </body>
